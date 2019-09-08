@@ -1,0 +1,236 @@
+
+.gettouch-hlder{
+	background:#FFF;
+	padding:10px 0 1px;
+}
+.get-skyhlder{
+	background:#28afe2;
+	padding:10px 0 24px;
+}
+.contact-box{
+	margin:0 0 24px;
+	padding:0;
+}
+.contact-box h4{
+	color:#28afe2;
+	margin:0;
+	padding:12px 0;
+	background:#fbf7f8;
+	text-align:center;
+	border-radius:04px;
+	box-shadow:inset 0 1px 4px 0 rgba(0, 0, 0, 0.25);
+	font-family:'Oswald', sans-serif;
+	font-size:24px;
+	font-weight:400;
+}
+.stay-info{
+	margin-bottom:24px;
+}
+.stay-info h4{
+	margin:0 0 12px;
+	padding:0;
+	color:#f4f1f1;
+	font-size:20px;
+}
+.stay-info p{
+	margin:0;
+	padding:0;
+	font-size:12px;
+	color:#FFF;
+}
+.contact-info{
+}
+.contact-info h2{
+	margin:0 0 12px;
+	padding:0;
+	font-size:20px;
+	color:#FFF;
+}
+.contact-info h3{
+	margin:0 0 12px;
+	padding:0;
+	font-size:12px;
+	color:#FFF;
+}
+.contact-info span{
+	margin:0 0 10px;
+	padding:0;
+	font-size:14px;
+	color:#FFF;
+	display:block;
+}
+.contact-info a{
+	padding:0;
+	color:#FFF;
+	display:inline-block;
+	vertical-align:middle;
+}
+.contact-info i{
+	color:#FFF;
+	display:inline-block;
+	vertical-align:middle;
+	margin-right:4px;
+}
+.contact-frm{
+}
+.contact-frm .form-group{
+ position:relative;
+}
+.contact-frm i{
+	position:absolute;
+	left:25px;
+	top:10px;
+	color:#dbd4d4;
+}
+.btn-default.btn-sbmt {
+  text-shadow: 0 1px 0 #fff;
+  background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image:      -o-linear-gradient(top, #fff 0%, #e0e0e0 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#e0e0e0));
+  background-image:         linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe0e0e0', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+  border-color: #dbdbdb;
+  border-color: #ccc;
+  color:#28afe2;
+  text-decoration:none;
+}
+.btn-default.btn-sbmt:hover,
+.btn-default.btn-sbmt:focus {
+  background-color: #e0e0e0;
+  background-position: 0 -15px;
+}
+
+
+
+.footerbg{
+	background:#28afe2;
+	background:url(../../assets/images/footer-patn.jpg) repeat;
+	padding:14px 0;
+}
+.quick-link{
+	margin-bottom:18px;
+	margin-top:18px;
+}
+.hd4{
+	color:#fff;
+	font-family:'Oswald', sans-serif;
+	margin:0;
+	padding:0 0 24px 0;
+	font-size:18px;
+	background:url(../../assets/images/footer-line.png) repeat-x left 34px;
+}
+.quick-linking{
+}
+.quick-linking ul{
+	list-style:none;
+	margin:0;
+	padding:0 0 24px 44px;
+	position:relative;
+	min-height:44px;
+}
+.quick-linking ul li{
+	list-style:none;
+	margin:0 12px 0 0;
+	padding:0 0 8px;
+
+	display:inline-block;
+}
+.quick-linking ul li a{
+	list-style:none;
+	margin:0;
+	padding:0;
+	display:inline-block;
+	color:#FFF;
+	font-size:13px;
+}
+/*.quick-linking ul li:last-child{
+	background:url(../images/footer-line.png) repeat-x left 34px;
+}*/
+.quick-linking figure{
+	position:absolute;
+	left:14px;
+	top:68px;
+	right:0;
+	width:44px;
+	height:44px;
+
+}
+.quick-twiting{
+}
+.quick-twiting ul{
+	list-style:none;
+	margin:0;
+	padding:0 0 0 0;
+}
+.quick-twiting ul li{
+	list-style:none;
+	margin-bottom:12px;
+	padding:0 0 0 44px;
+	position:relative;
+	min-height:44px;
+}
+.quick-twiting ul li p{
+	list-style:none;
+	margin:0;
+	padding:0;
+	display:inline-block;
+	color:#FFF;
+	font-size:13px;
+	text-decoration:none;
+}
+/*.quick-linking ul li:last-child{
+	background:url(../images/footer-line.png) repeat-x left 34px;
+}*/
+.quick-twiting ul li figure{
+	position:absolute;
+	left:0;
+	top:0;
+	height:44px;
+	width:44px;
+}
+.social-linking{
+}
+.social-linking ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	min-height:44px;
+}
+.social-linking ul li{
+	list-style:none;
+	margin:0 12px;
+	padding:10px 0;
+
+	display:inline-block;
+}
+.social-linking ul li a{
+	list-style:none;
+	margin:0;
+	padding:0;
+	display:inline-block;
+	color:#FFF;
+	font-size:13px;
+}
+.resrvd-link{
+}
+.resrvd-link h4{
+	color:#fff;
+	margin:0;
+	padding:4px 0 0;
+	font-size:10px;
+	/*background:url(../images/footer-line.png) repeat-x left 0px;*/
+}
+.carousel-control.left.crsl-slid{
+	background-image:none;
+}
+.carousel-control.right.crsl-slid{
+	background-image:none;
+}
+.carousel-control.crsl-slid{
+	width:4%;
+	top:50%;
+    margin-top: -10px;
+}
+
